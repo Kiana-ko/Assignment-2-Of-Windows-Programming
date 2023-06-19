@@ -1,0 +1,17 @@
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\bin\Debug\net6.0-windows\DriversLicenseExam.exe
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\bin\Debug\net6.0-windows\DriversLicenseExam.deps.json
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\bin\Debug\net6.0-windows\DriversLicenseExam.runtimeconfig.json
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\bin\Debug\net6.0-windows\DriversLicenseExam.dll
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\bin\Debug\net6.0-windows\DriversLicenseExam.pdb
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.Form1.resources
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.csproj.GenerateResource.cache
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.AssemblyInfoInputs.cache
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.AssemblyInfo.cs
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.dll
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\refint\DriversLicenseExam.dll
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.pdb
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\DriversLicenseExam.genruntimeconfig.cache
+C:\Users\Atrina\source\repos\DriversLicenseExam\DriversLicenseExam\obj\Debug\net6.0-windows\ref\DriversLicenseExam.dll

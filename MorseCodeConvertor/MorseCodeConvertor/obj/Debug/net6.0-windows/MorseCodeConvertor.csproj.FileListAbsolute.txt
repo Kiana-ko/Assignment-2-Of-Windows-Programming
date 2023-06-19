@@ -1,0 +1,17 @@
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\bin\Debug\net6.0-windows\MorseCodeConvertor.exe
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\bin\Debug\net6.0-windows\MorseCodeConvertor.deps.json
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\bin\Debug\net6.0-windows\MorseCodeConvertor.runtimeconfig.json
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\bin\Debug\net6.0-windows\MorseCodeConvertor.dll
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\bin\Debug\net6.0-windows\MorseCodeConvertor.pdb
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.csproj.AssemblyReference.cache
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.Form1.resources
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.csproj.GenerateResource.cache
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.AssemblyInfoInputs.cache
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.AssemblyInfo.cs
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.dll
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\refint\MorseCodeConvertor.dll
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.pdb
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\MorseCodeConvertor.genruntimeconfig.cache
+C:\Users\Atrina\source\repos\MorseCodeConvertor\MorseCodeConvertor\obj\Debug\net6.0-windows\ref\MorseCodeConvertor.dll
